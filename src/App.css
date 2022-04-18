@@ -1,0 +1,14 @@
+body{
+    background-image: url(../src/th2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+li {
+    cursor: pointer;
+}
+.Brdr{
+height: 1px;
+background-color: #fff;   
+margin: 20px 0; 
+}

@@ -1,0 +1,11 @@
+.orange{
+    color: orangered;
+}
+.orangebj{
+    background-color: orangered;
+}
+
+.imgRedias{
+    border-radius: 15px;
+    box-shadow: 2px 2px 1px 1px orangered;
+}

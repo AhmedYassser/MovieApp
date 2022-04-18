@@ -1,0 +1,45 @@
+.bglight {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    164deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(3, 4, 6, 1) 39%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  z-index: 9999999;
+}
+
+.LINKS {
+  color: orangered !important;
+  font-size: 1.2rem;
+  text-transform: uppercase !important;
+  margin-right: 10px;
+  border-radius: 20px;
+  font-weight: 700;
+  
+}
+.LINKS:hover {
+  color: #fff !important;
+  background-color: orangered;
+  
+  transition: all 0.5s;
+}
+.Bur {
+  color: orangered !important;
+  background-color: rgb(255, 145, 0) !important;
+}
+.Icon {
+  font-size: 1.6rem;
+  margin-right: 10px;
+  color: #fff;
+  font-weight: 700;
+}
+.Icon:hover {
+  color: orangered !important;
+}
+
+
+.img {
+  width: 70px;
+  border-radius: 30px;
+}

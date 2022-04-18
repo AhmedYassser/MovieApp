@@ -1,0 +1,38 @@
+.btn_grad {
+  background-image: linear-gradient(
+    to right,
+    #ff7300 0%,
+    #ed8f03 51%,
+    #ffb75e 100%
+  );
+}
+.btn_grad {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+
+  border-radius: 10px;
+  display: block;
+}
+
+.btn_grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+.orange::placeholder{
+  color: rgb(136, 131, 131) !important;
+}
+.orange{
+  color: orangered !important;
+  text-transform: uppercase;
+  border-radius: 10px;
+  background-color: papayawhip;
+}
+.color{
+  color:orangered;
+}
